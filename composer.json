@@ -1,0 +1,7 @@
+{
+    "name": "tu-vendor/tu-proyecto",
+    "description": "Proyecto con WebSocket Client",
+    "require": {
+        "textalk/websocket": "^1.5"
+    }
+}
